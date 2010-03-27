@@ -1,6 +1,0 @@
-Undostack.py provide undo/redo functional for pygtk's gtk.TextView.
-
-Using: 
-
-editor = undostack.TextEditor()
-
